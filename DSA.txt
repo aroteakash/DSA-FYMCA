@@ -1,0 +1,11 @@
+1. Sequential search
+2. sparse matrix
+3. Stack at ADT
+4. Queue at ADT
+5. Infix ot postfix
+6. BST & Traversal
+
+1. DLL
+2. CLL
+3. Circular Queue MST
+4. Graph
